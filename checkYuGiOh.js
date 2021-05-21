@@ -33,4 +33,4 @@ const checkYuGiOh = (num) => {
   return results;
 };
 
-console.log(checkYuGiOh(15));    
+console.log(checkYuGiOh(15));   
