@@ -16,4 +16,4 @@ const convertFahrToCelsius = (deg) => {
     return `${c}`;
   };
   
-  console.log(convertFahrToCelsius(0)); 
+  console.log(convertFahrToCelsius(0));
